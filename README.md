@@ -11,9 +11,9 @@ Learning embedded C programming on STM32F411 Nucleo using the FastBit Udemy cour
 
 | Section | Topic | Status |
 |---------|-------|--------|
-| S01 | Intro & IDE Setup | 🔄 In progress |
-| S02 | C Basics | ⬜ Not started |
-| S03 | Data Types & stdint.h | ⬜ Not started |
+| S01 | Intro & IDE Setup | ✅ Done |
+| S02 | C Basics | ✅ Done |
+| S03 | Data Types & stdint.h | 🔄In progress |
 | S04 | Bitwise Operators | ⬜ Not started |
 | S05 | Bit Manipulation | ⬜ Not started |
 | S06 | Casting & Qualifiers | ⬜ Not started |
