@@ -10,7 +10,8 @@
 
 int main(){
 
-	printf("Hello Stm32");
+	printf("Hello Stm32\n");
+	printf("How is the setup\n");
 
 	return 0;
 }
