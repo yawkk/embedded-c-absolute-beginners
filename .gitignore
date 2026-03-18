@@ -14,3 +14,4 @@ Release/
 RemoteSystemsTempFiles/
 
 # Keep: Core/ Drivers/ *.ioc *.c *.h *.md *.html schematic*
+.project
